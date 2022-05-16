@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/48798757/168603267-66c54a9e-4f8c-470f-
 
 -----
 
-The GCP to Dash Pipeline flowchart is described here:
+The GCP to Dash Pipeline flowchart is available here in higher resolution:
 
 ![sr_gcp_pipeline](https://user-images.githubusercontent.com/48798757/168603995-fdb7a234-33c2-4ebf-8a31-e53c7cd4a519.png)
 
